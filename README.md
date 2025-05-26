@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm Katikam Naresh — DevOps | Cloud | Automation Engineer
 
-<!--
-**katikamnaresh983/katikamnaresh983** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 7+ years of IT experience, including 4 years specializing in **DevOps engineering**  
+🚀 Skilled in automating infrastructure, deploying scalable apps, and managing CI/CD pipelines
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tools & Technologies
+- ☁️ **Cloud:** Azure, AWS
+- 🐳 **Containers:** Docker, Kubernetes (AKS, EKS)
+- 🔁 **CI/CD:** Jenkins, GitHub Actions, Azure DevOps
+- 📦 **IaC:** Terraform, Helm, Ansible
+- 📊 **Monitoring:** Prometheus, Grafana, ELK Stack
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 AKS CI/CD with Jenkins & Helm
+End-to-end deployment pipeline for microservices to Azure Kubernetes Service using:
+- Jenkins pipelines
+- Helm charts for versioned deployment
+- Auto rollback & health checks
+
+📂 [Project Repo Coming Soon]
+
+---
+
+### 🔹 Multi-Cloud Infra with Terraform
+Provisioned scalable and secure infrastructure on AWS & Azure:
+- Modular Terraform (VPC, EC2, AKS, IAM)
+- Remote backends, workspaces
+- Used in live deployment scenarios
+
+📂 [Project Repo Coming Soon]
+
+---
+
+## 📄 Resume & Contact
+
+- 📧 Email: *katikamnaresh983@gmail.com*
+- 🔗 LinkedIn: *https://www.linkedin.com/in/naresh-katikam-8938349b*
+- 📄 Resume: *(Optional link to your resume)*
+
+---
+
+## 🎯 Career Goal
+
+💼 I’m actively seeking a **remote DevOps Engineer role**.  
+Let’s connect if you’re hiring or want to collaborate on infrastructure & automation projects!
+
+---
+
+> ⭐️ Don’t forget to check my pinned repositories below!
