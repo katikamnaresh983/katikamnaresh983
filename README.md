@@ -40,7 +40,8 @@ Provisioned scalable and secure infrastructure on AWS & Azure:
 
 - 📧 Email: *katikamnaresh983@gmail.com*
 - 🔗 LinkedIn: *https://www.linkedin.com/in/naresh-katikam-8938349b*
-- 📄 Resume: *(Optional link to your resume)*
+- 📄 Resume: *(https://drive.google.com/file/d/18q0nfilV5g2JMA0GDwWPp-HEhFHSlJNq/view?usp=sharing)*
+- 
 
 ---
 
