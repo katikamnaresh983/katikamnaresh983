@@ -21,7 +21,7 @@ End-to-end deployment pipeline for microservices to Azure Kubernetes Service usi
 - Jenkins pipelines
 - Helm charts for versioned deployment
 - Auto rollback & health checks
-https://github.com/katikamnaresh983/aks-jenkins-helm-pipeline
+- https://github.com/katikamnaresh983/aks-jenkins-helm-pipeline
 ---
 
 ### 🔹 Multi-Cloud Infra with Terraform
@@ -29,7 +29,7 @@ Provisioned scalable and secure infrastructure on AWS & Azure:
 - Modular Terraform (VPC, EC2, AKS, IAM)
 - Remote backends, workspaces
 - Used in live deployment scenarios
-https://github.com/katikamnaresh983/multi-cloud-infra-terraform
+- https://github.com/katikamnaresh983/multi-cloud-infra-terraform
 ---
 
 ## 📄 Resume & Contact
