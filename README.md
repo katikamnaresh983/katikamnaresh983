@@ -7,7 +7,7 @@
 
 ## 🔧 Tools & Technologies
 - ☁️ **Cloud:** AWS
-- 🐳 **Containers:** Docker, Kubernetes (AKS, EKS)
+- 🐳 **Containers:** Docker, Kubernetes (EKS)
 - 🔁 **CI/CD:** Jenkins
 - 📦 **IaC:** Terraform, Helm
 - 📊 **Monitoring:** Datadog, Splunk, Dynatrace
