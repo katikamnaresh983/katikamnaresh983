@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Katikam Naresh — DevOps | Cloud | Automation Engineer
 
-🔧 7+ years of IT experience, including 4 years specializing in **DevOps engineering**  
+🔧 8+ years of IT experience, including 6 years specializing in **DevOps engineering**  
 🚀 Skilled in automating infrastructure, deploying scalable apps, and managing CI/CD pipelines
 
 ---
 
 ## 🔧 Tools & Technologies
-- ☁️ **Cloud:** Azure, AWS
+- ☁️ **Cloud:** AWS
 - 🐳 **Containers:** Docker, Kubernetes (AKS, EKS)
-- 🔁 **CI/CD:** Jenkins, GitHub Actions, Azure DevOps
-- 📦 **IaC:** Terraform, Helm, Ansible
-- 📊 **Monitoring:** Prometheus, Grafana, ELK Stack
+- 🔁 **CI/CD:** Jenkins
+- 📦 **IaC:** Terraform, Helm
+- 📊 **Monitoring:** Datadog, Splunk, Dynatrace
 
 ---
 
